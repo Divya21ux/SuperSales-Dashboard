@@ -1,0 +1,1 @@
+This project presents an interactive Sales Dashboard focused on analyzing sales performance across the United States. Built using, the dashboard provides visual insights into key metrics such as revenue, sales volume, regional performance, and product trends.
